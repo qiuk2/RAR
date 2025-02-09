@@ -15,7 +15,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 """
 import math
-import os
+import os, sys
 from pathlib import Path
 
 from accelerate.utils import set_seed
@@ -23,6 +23,11 @@ from accelerate import Accelerator
 
 import torch
 from omegaconf import OmegaConf
+
+current_dir = os.path.dirname(os.path.abspath(__file__))
+project_root = os.path.abspath(os.path.join(current_dir, '..'))
+sys.path.append(project_root)
+
 from utils.logger import setup_logger
 
 from utils.train_utils import (

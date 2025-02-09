@@ -1,0 +1,16 @@
+{"time":"2025-02-08T22:02:51.237717077-05:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2025-02-08T22:02:51.237735992-05:00","level":"INFO","msg":"created symlink","path":"/home/biometrics/kaiqiu/RAR/wandb/offline-run-20250208_220251-gnts8pr9/logs/debug-core.log"}
+{"time":"2025-02-08T22:02:51.24269659-05:00","level":"INFO","msg":"created new stream","id":"gnts8pr9"}
+{"time":"2025-02-08T22:02:51.242726898-05:00","level":"INFO","msg":"stream: started","id":"gnts8pr9"}
+{"time":"2025-02-08T22:02:51.242745102-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"gnts8pr9"}}
+{"time":"2025-02-08T22:02:51.242778044-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"gnts8pr9"}}
+{"time":"2025-02-08T22:02:51.242763958-05:00","level":"INFO","msg":"sender: started","stream_id":{"value":"gnts8pr9"}}
+{"time":"2025-02-08T22:02:51.247787874-05:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2025-02-08T22:02:51.248220743-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-08T22:02:54.981975908-05:00","level":"INFO","msg":"stream: closing","id":"gnts8pr9"}
+{"time":"2025-02-08T22:02:54.982014742-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-08T22:02:54.984068755-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-08T22:02:54.984244677-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"gnts8pr9"}}
+{"time":"2025-02-08T22:02:54.98426201-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"gnts8pr9"}}
+{"time":"2025-02-08T22:02:54.984296585-05:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"gnts8pr9"}}
+{"time":"2025-02-08T22:02:54.98430408-05:00","level":"INFO","msg":"stream: closed","id":"gnts8pr9"}
